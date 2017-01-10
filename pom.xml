@@ -29,5 +29,6 @@
 	</build>
   <modules>
     <module>shiro-javase</module>
+    <module>shiro-web</module>
   </modules>
 </project>

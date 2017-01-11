@@ -30,5 +30,6 @@
   <modules>
     <module>shiro-javase</module>
     <module>shiro-web</module>
+    <module>shiro-session</module>
   </modules>
 </project>

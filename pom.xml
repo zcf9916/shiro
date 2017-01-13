@@ -31,5 +31,8 @@
     <module>shiro-javase</module>
     <module>shiro-web</module>
     <module>shiro-session</module>
+    <module>shiro-spring</module>
+    <module>shiro-rememberme</module>
+    <module>shiro-example</module>
   </modules>
 </project>
